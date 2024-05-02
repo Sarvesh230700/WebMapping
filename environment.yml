@@ -9,7 +9,15 @@ dependencies:
   - nodejs=16.13.*
   - flask
   - pip
+  - pandas
+  - folium
+  - ipywidgets
+  - matplotlib
+  - widgetsnbextension
+  - ipython
+  - panel
   - pip:
     - Flask-Testing
 packages:
 - jupyter-panel-proxy
+- pandas
